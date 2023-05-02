@@ -110,3 +110,7 @@ a {
     width: 200px;
     gap: 10px
 }
+
+.imgby a {
+    color: rgb(9, 157, 216);
+}
