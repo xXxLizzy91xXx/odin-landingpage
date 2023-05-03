@@ -172,3 +172,22 @@ a {
 .bannercolumn {
     padding: 0 50px;
 }
+
+.footer {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+a:hover {
+    color: rgb(255, 58, 91);
+    background-color: #1f2937;
+    opacity: 0.5;
+}
+
+button:hover {
+    background-color: #2861bd;
+}
