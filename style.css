@@ -142,3 +142,33 @@ a {
     justify-content: flex-end;
     font-weight: bold;
 }
+
+.bannersection {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bannercontainer {
+    background-color: #3882F6;
+    width: 50%;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bannerbutton {
+    background-color: #3882F6;
+    border: 2px white solid;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.bannercolumn {
+    padding: 0 50px;
+}
