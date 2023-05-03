@@ -77,6 +77,10 @@ a {
     margin-top: 5px;
 }
 
+.sectiontwo {
+    height: 500px;
+}
+
 .sectiontitle {
     text-align: center;
     padding: 50px 0 50px 0;
@@ -85,7 +89,6 @@ a {
 .container {
     display: flex;
     justify-content: center;
-    height: 500px;
     align-items: flex-start;
 }
 
