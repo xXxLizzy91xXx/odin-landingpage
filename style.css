@@ -114,3 +114,31 @@ a {
 .imgby a {
     color: rgb(9, 157, 216);
 }
+
+.sectionthree {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.quotecontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin: 25%;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    opacity: 0.5;
+    color: #1f2937;
+}
+
+.quotename {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
